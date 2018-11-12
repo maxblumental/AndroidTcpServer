@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">MobileServer</string>
+  <string name="run_server">Run Server</string>
+  <string name="cancel">Cancel</string>
+</resources>
